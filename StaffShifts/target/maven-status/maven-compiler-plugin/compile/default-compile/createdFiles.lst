@@ -1,0 +1,12 @@
+employeeshifts\ReactAndSpringDataRestApplication.class
+employeeshifts\SpringDataJpaUserDetailsService.class
+employeeshifts\Manager.class
+employeeshifts\SpringDataRestEventHandler.class
+employeeshifts\EmployeeRepository.class
+employeeshifts\Employee.class
+employeeshifts\EventHandler.class
+employeeshifts\DatabaseLoader.class
+employeeshifts\HomeController.class
+employeeshifts\ManagerRepository.class
+employeeshifts\SecurityConfiguration.class
+employeeshifts\WebSocketConfiguration.class
